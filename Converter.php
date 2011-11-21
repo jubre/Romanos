@@ -1,5 +1,5 @@
 <?php 
-class Conversor
+class Converter
 {
   public function numberToRoman($number)
  {
